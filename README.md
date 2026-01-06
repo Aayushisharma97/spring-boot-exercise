@@ -43,7 +43,7 @@ A Java Spring Boot application demonstrating RESTful CRUD operations, pagination
 
 1. Clone the repository:
    ```
-git clone <your-github-repo-url>
+git clone https://github.com/Aayushisharma97/spring-boot-exercise/
    ```
 2. Navigate to the project directory:
    ```
@@ -100,7 +100,7 @@ mvn test
 
 - Aayushi Sharma
 - Contact: aayushi.as97@gmail.com
-- GitHub: [your-github-profile-link]
+- GitHub: https://github.com/Aayushisharma97/spring-boot-exercise/
 
 ---
 
